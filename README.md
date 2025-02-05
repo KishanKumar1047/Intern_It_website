@@ -1,6 +1,6 @@
-![Alt text](screenshot\img1.png)
-![Alt text](screenshot\img2.png)
-![Alt text](screenshot\img3.png)
+![Alt text](./screenshot/img1.png)
+![Alt text](./screenshot/img2.png)
+![Alt text](./screenshot/img3.png)
 
 
 # IT Website
